@@ -11,18 +11,16 @@
         name="email"
         value="example@gmail.com">
         </form>
-        <table>
-            <tr>
-                <th>seu nome</th><th>sua idade</th>
-            </tr>
+    
                 <form>
-        
+                    <label>seu nome</label>
                     <input type="text"> 
+                    <label>sua data de nascimento</label>
                     <input type="date">
                 </form>
-        </table>
+    
         <script>
-    <button onclick='alert("enviado")''>mandar</button>
+    <button onclick='alert("enviado")'>mandar</button>
 </script>
     </body>
 </html>
