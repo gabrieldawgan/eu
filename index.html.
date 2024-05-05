@@ -21,7 +21,8 @@
                     <input type="date">
                 </form>
         </table>
-        
+        <script>
     <button onclick='alert("enviado")''>mandar</button>
+</script>
     </body>
 </html>
